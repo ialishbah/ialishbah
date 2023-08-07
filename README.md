@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ialishbah
 - 👀 I’m interested in coding and digital marketing 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
